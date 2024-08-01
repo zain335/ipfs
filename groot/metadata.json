@@ -1,7 +1,7 @@
 {
   "name": "I am Groot",
   "symbol": "GROOT",
-  "uri": "https://arweave.net/1234",
+  "uri": "https://raw.githubusercontent.com/zain335/ipfs/main/groot/groot.png",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
